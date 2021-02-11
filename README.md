@@ -8,7 +8,7 @@ This is a personal space where I will outline my Cybersecurity projects related 
 > - Cyber law
 > - SIEM introduction
 
-### Brainstorm Items
+### Brainstorm Items :thought_balloon:
 
 - Rootkit project [Ring-0-Fire Repo](https://github.com/Horsekey/ring-0-fire)
 - NAS Server
@@ -32,4 +32,4 @@ This is a personal space where I will outline my Cybersecurity projects related 
   - Common safeguards for assets and opensource applications?
 - HBT advancement
 
-### Organized Ideas
+### Organized Ideas :suspect:
