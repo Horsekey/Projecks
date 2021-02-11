@@ -32,4 +32,4 @@ This is a personal space where I will outline my Cybersecurity projects related 
   - Common safeguards for assets and opensource applications?
 - HBT advancement
 
-### Organized Ideas :suspect:
+### Organized Ideas :pushpin:
