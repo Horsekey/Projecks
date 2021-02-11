@@ -34,9 +34,9 @@ This is a personal space where I will outline my Cybersecurity projects related 
 
 ### Organized Ideas :pushpin:
 
-Home | Volunteer | Virtualized | Personal | School Related | test |
------|-----------|-------------|----------|----------------|------|
-NAS server | Audit Project | Homelab Simulation | HTB | ARP Poison | <ul><li>- [x] item1</li><li>- [ ] item2</li></ul> |
-Rouge AP | RDP Setup | Rootkit analysis | Portfolio & Resume | HTTPS Spoof
-Firewall setup & monitor | - | Python (for scripts) | - | - |
-Router setup | - | - | - | - |
+Home | Volunteer | Virtualized | Personal | School Related |
+-----|-----------|-------------|----------|----------------|
+:x: NAS server | :x: Audit Project | :x: Homelab Simulation | :x: HTB | :x: ARP Poison |
+:x: Rouge AP | :x: RDP Setup | :x: Rootkit analysis | :x: Portfolio & Resume | :x: HTTPS Spoof
+:x: Firewall setup & monitor | - | :x: Python (for scripts) | - | - |
+:x: Router setup | - | - | - | - |
