@@ -3,10 +3,10 @@
 ## Ongoing Potential Projects Report 2021 :moyai:
 
 This is a personal space where I will outline my Cybersecurity projects related to my current studies 
-> Related courses
-> Ethical Hacking
-> Cyber law
-> SIEM introduction
+> Related courses:
+> - Ethical Hacking
+> - Cyber law
+> - SIEM introduction
 
 ### Brainstorm Items
 
@@ -20,7 +20,7 @@ This is a personal space where I will outline my Cybersecurity projects related 
 - HTTPS Spoof (proof-of-concept)
 - Rouge AP
 - Firewall setup and monitor
-  - **Pfirewall?**
+  - *Pfirewall?*
 - Advanced python scripting
 - Router Setup with MAC routing
 - Protfolio and resume building
