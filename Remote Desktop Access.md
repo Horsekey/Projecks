@@ -3,8 +3,6 @@
 
 ## The following steps will allow you to securely connect to your computer from any supporting device:
 
-## **NOTE:** You must use the same Google account to access the device you will be setting up. (if issues arrise, try checking if you are using two different accounts)
-
 ### Step 1:
 Open the Google Chrome Browser on your Work Computer and Navigate to the "chrome web store."
 
@@ -35,3 +33,4 @@ After completing the steup on your home computer, you should see your work compu
 ### Step 10:
 Connect to this device and ensure that the connection is stable.
 
+**NOTE:** You must use the same Google account to access the device you will be setting up. (if issues arrise, try checking if you are using two different accounts)
