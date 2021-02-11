@@ -22,14 +22,21 @@ This is a personal space where I will outline my Cybersecurity projects related 
 - Firewall setup and monitor
   - *Pfirewall?*
 - Advanced python scripting
-- Router Setup with MAC routing
-- Protfolio and resume building
+- Router setup with MAC routing
+- Portfolio and resume building
   - WAMP
 - Volunteer Cybersecurity audit
   - Local community groups?
   - What tools/process to use?
   - Report structure?
   - Common safeguards for assets and opensource applications?
-- HBT advancement
+- HTB advancement
 
 ### Organized Ideas :pushpin:
+
+Home | Volunteer | Virtualized | Personal | School Related | 
+-----|-----------|-------------|----------|----------------|
+NAS server | Audit Project | Homelab Simulation | HTB | ARP Poison
+Rouge AP | RDP Setup | Rootkit analysis | Portfolio & Resume | HTTPS Spoof
+Firewall setup & monitor | - | Python (for scripts) | - | - |
+Router setup | - | - | - | - |
