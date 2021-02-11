@@ -10,7 +10,8 @@ Open the Google Chrome Browser on your Work Computer and Navigate to the "chrome
 Search for "chrome remote desktop" in the search bar.
 
 ### Step 3:
-Add this extension to your chrome browser. Upon adding this extension, locate it by either finding the puzzle piece extension icon or navigating to >https://remotedesktop.google.com
+Add this extension to your chrome browser. Upon adding this extension, locate it by either finding the puzzle piece extension icon or navigating to
+> https://remotedesktop.google.com
 
 ### Step 4:
 If prompted, click the "turn on" button to allow remote access to this computer.
