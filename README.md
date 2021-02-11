@@ -36,7 +36,7 @@ This is a personal space where I will outline my Cybersecurity projects related 
 
 Home | Volunteer | Virtualized | Personal | School Related | 
 -----|-----------|-------------|----------|----------------|
-NAS server | Audit Project | Homelab Simulation | HTB | ARP Poison
+- [] NAS server | Audit Project | Homelab Simulation | HTB | ARP Poison
 Rouge AP | RDP Setup | Rootkit analysis | Portfolio & Resume | HTTPS Spoof
 Firewall setup & monitor | - | Python (for scripts) | - | - |
 Router setup | - | - | - | - |
