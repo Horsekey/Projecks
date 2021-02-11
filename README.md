@@ -3,7 +3,7 @@
 ## Ongoing Potential Projects Report 2021 :moyai:
 
 This is a personal space where I will outline my Cybersecurity projects related to my current studies 
-> Related courses:
+> Related courses 2021:
 > - Ethical Hacking
 > - Cyber law
 > - SIEM introduction
