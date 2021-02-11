@@ -34,4 +34,5 @@ After completing the steup on your home computer, you should see your work compu
 ### Step 10:
 Connect to this device and ensure that the connection is stable.
 
-**NOTE:** You must use the same Google account to access the device you will be setting up. (if issues arrise, try checking if you are using two different accounts)
+**NOTE:** You must use the same Google account to access the device you will be setting up. 
+*(if issues arrise, try checking if you are using two different accounts)
