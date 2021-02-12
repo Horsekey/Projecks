@@ -14,4 +14,4 @@
   - []()
 
 **Portfolio & Resume**
-  - [webflow university](https://university.webflow.com/courses/2021-portfolio-course?video=S8CMTdl8oV4)
+  - [Webflow University](https://university.webflow.com/courses/2021-portfolio-course?video=S8CMTdl8oV4)
