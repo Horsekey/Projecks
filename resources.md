@@ -16,3 +16,4 @@
 
 **Portfolio & Resume**
   - [Webflow University](https://university.webflow.com/courses/2021-portfolio-course?video=S8CMTdl8oV4)
+  - [Digital Bake](https://www.thedigitalbake.com/)
