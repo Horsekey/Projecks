@@ -43,3 +43,13 @@ Home | Volunteer | Virtualized | Personal | School Related |
 
 :x: = ongoing
 :heavy_check_mark: = finished
+
+
+### Objective Project Components :clipboard: :
+  - Purpose of the project: Why did you start the project.
+  - Objective: What you accomplished.
+  - Approach: How you accomplished it.
+  - Project duration: How long it took you.
+  - Your role: How you contributed to the team or project.
+  - Final product overview: Pictures, videos, links, etc.
+
