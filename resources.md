@@ -5,7 +5,7 @@
 - [Chrome Remote Desktop](https://remotedesktop.google.com/?pli=1) :heavy_check_mark:
 
 **Router Settings (Linksys)**
-  - []()
+  - [OpenVPN Capabilities](https://www.linksys.com/us/support-article?articleNum=157327)
   - []()
   - []()
 
