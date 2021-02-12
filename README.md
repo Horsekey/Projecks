@@ -40,6 +40,7 @@ Home | Volunteer | Virtualized | Personal | School Related |
 :x: Rouge AP | :x: RDP Setup | :x: Rootkit analysis | :x: Portfolio & Resume | :x: HTTPS Spoof
 :x: Firewall setup & monitor | - | :x: Python (for scripts) | - | - |
 :x: Router setup | - | - | - | - |
+:x: Honeypot (DMZ?)! | - | - | - | - |
 
 :x: = ongoing
 :heavy_check_mark: = finished
