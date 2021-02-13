@@ -46,7 +46,7 @@ Home | Volunteer | Virtualized | Personal | School Related |
 :heavy_check_mark: = finished
 
 \
-\
+\\
 
 
 ## Objective Project Components :clipboard: :
