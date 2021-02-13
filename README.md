@@ -47,7 +47,7 @@ Home | Volunteer | Virtualized | Personal | School Related |
 
 \
 \
-\
+
 
 ## Objective Project Components :clipboard: :
   - Purpose of the project: Why did you start the project.
