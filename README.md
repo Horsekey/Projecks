@@ -45,6 +45,9 @@ Home | Volunteer | Virtualized | Personal | School Related |
 :x: = ongoing
 :heavy_check_mark: = finished
 
+\
+\
+\
 
 ## Objective Project Components :clipboard: :
   - Purpose of the project: Why did you start the project.
