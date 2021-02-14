@@ -18,3 +18,6 @@
   - [Webflow University](https://university.webflow.com/courses/2021-portfolio-course?video=S8CMTdl8oV4)
   - [Digital Bake](https://www.thedigitalbake.com/)
     - [flowweb (UI Kits)](https://www.flowbase.co/)
+  - [Domain](https://registrar.epik.com/index/register-domain)
+  - [VPS](https://www.vultr.com/products/cloud-compute/)
+   
