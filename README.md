@@ -55,3 +55,9 @@ Home | Volunteer | Virtualized | Personal | School Related |
   - Your role: How you contributed to the team or project.
   - Final product overview: Pictures, videos, links, etc.
 
+
+## Finished Projecks  :white_check_mark: :
+
+  - Linux Arch rice
+    - See resources and the bar github repo [cfg](https://github.com/Horsekey/cfg)
+    - Arch Linux with i3-gaps, alacritty, ranger, rofi, polybar, cava, ncspot (mpd & ncmpcpp), and pywal
