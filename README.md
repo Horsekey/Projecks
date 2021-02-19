@@ -62,7 +62,7 @@ Home | Volunteer | Virtualized | Personal | School Related |
     - See resources and the bar github repo [cfg](https://github.com/Horsekey/cfg)
       - Still need to upload dot files to cfg
     - Arch Linux with i3-gaps, alacritty, ranger, rofi, polybar, cava, ncspot (mpd & ncmpcpp), and pywal
-    
+  
   - ARP Spoof
-      - Lab was really cool and showed the basics of ettercap
+      - Lab was really informative and showed the basics of ettercap
       - Need to see what other types of MITM attacks it can do
