@@ -36,7 +36,7 @@ This is a personal space where I will outline my Cybersecurity projects related 
 
 Home | Volunteer | Virtualized | Personal | School Related |
 -----|-----------|-------------|----------|----------------|
-:x: NAS server | :x: Audit Project | :x: Homelab Simulation | :x: HTB | :x: ARP Poison |
+:x: NAS server | :x: Audit Project | :x: Homelab Simulation | :x: HTB | :heavy_check_mark: ARP Poison |
 :x: Rouge AP | :x: RDP Setup | :x: Rootkit analysis | :x: Portfolio & Resume | :x: HTTPS Spoof
 :x: Firewall setup & monitor | - | :x: Python (for scripts) | :heavy_check_mark: Arch Linux Rice | - |
 :x: Router setup | - | - | - | - |
