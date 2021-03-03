@@ -21,3 +21,5 @@
   - [Domain (reedhuskey.xyz)](https://registrar.epik.com/index/register-domain)
   - [VPS](https://www.vultr.com/products/cloud-compute/)
    
+**Python (Ethical Hacking)**
+  - [Python for Offensive PenTest](http://proxy.library.maryville.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=e900xww&AN=1801011&site=eds-live&scope=site&ebv=EB&ppid=pp_FM2)
