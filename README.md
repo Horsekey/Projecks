@@ -59,7 +59,7 @@ Home | Volunteer | Virtualized | Personal | School Related |
 ## Finished Projecks  :white_check_mark: :
 
   - Linux Arch rice (virtual)
-    - See resources and the bar github repo [cfg](https://github.com/Horsekey/cfg)
+    - See resources and the bare github repo [cfg](https://github.com/Horsekey/cfg)
       - Still need to upload dot files to cfg
     - Arch Linux with i3-gaps, alacritty, ranger, rofi, polybar, cava, ncspot (mpd & ncmpcpp), and pywal
   
