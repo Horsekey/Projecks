@@ -6,7 +6,7 @@
 
 **Router Settings (Linksys)**
   - [OpenVPN Capabilities](https://www.linksys.com/us/support-article?articleNum=157327)
-  - []()
+  - [Sophos XG (check if flashable)](https://www.sophos.com/en-us/products/free-tools/sophos-xg-firewall-home-edition.aspx)
   - []()
 
 **NAS RAID Types**
