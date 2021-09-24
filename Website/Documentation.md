@@ -18,5 +18,5 @@
 - Parallax
 - Cool interactive UI elements
 
-(Website layout ROUGH draft)[https://imgur.com/q7T36wm]
+[Website layout ROUGH draft](https://imgur.com/q7T36wm)
 
