@@ -1,1 +1,22 @@
 # Website Creation
+
+Outline:
+- Find best website creation tool (or do it myself)
+  - Create Basic Layout
+- Create custom font
+  - rounded font? 
+- Custom images
+  - dog with eyebrows/eyes movement
+  - MF DOOM variation
+    - Cheetos, Doritos, Fritos loading bard
+    - DOOM mask on dog 
+  - D2 variation
+- Sax sounds
+- Concentric startup screen
+- porfolio/resume
+  - Splunk dashboards, HSS AHP, Apprenticeship, Salesforce
+- Parallax
+- Cool interactive UI elements
+
+(Website layout ROUGH draft)[https://imgur.com/q7T36wm]
+
