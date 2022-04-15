@@ -38,7 +38,7 @@ Home | Volunteer | Virtualized | Personal | School Related |
 -----|-----------|-------------|----------|----------------|
 :heavy_check_mark: NAS server | :x: Audit Project | :x: Homelab Simulation | :x: HTB | :heavy_check_mark: ARP Poison |
 :x: Evil Twin AP | ✔️ RDP Setup | :x: Rootkit analysis | :x: Portfolio & Resume | :x: HTTPS Spoof
-:x: SIEM Lab Environment (honeypot) | - | :x: Python (for scripts) | :heavy_check_mark: Arch Linux Rice | - |
+:x: SIEM Lab Environment (honeypot) | - | :x: PowerShell (for scripts) | :heavy_check_mark: Arch Linux Rice | - |
 :x: Vulnerability Management Lab | - | - | - | - |
 :x: Honeypot! | - | - | - | - |
 
@@ -66,3 +66,11 @@ Home | Volunteer | Virtualized | Personal | School Related |
   - ARP Spoof
       - Lab was really informative and showed the basics of ettercap
       - Need to see what other types of MITM attacks it can do
+
+  - RDP Setup
+    - With limited resources (no server/VPN) to establish a secure RDP connection, I opted to use Google's remote desktop solution
+    - Delivered to business with documentation in the "RDP-Projek" folder
+
+  - NAS File server
+    - Utilized TrueNAS 12.0-U8.1 to make a NAS with Raidz2 and Windows share authentication (Samba and Microsoft account).
+    - Had issues with authentication and upkeep of the machine. Used an older box that had limited RAM, will upgrade with time!
