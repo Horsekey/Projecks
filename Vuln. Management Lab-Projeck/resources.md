@@ -1,0 +1,2 @@
+- Video I followed for setting up a basic vulnerability lab
+  - [test](https://www.youtube.com/watch?v=lT6Px9zJM3s)
