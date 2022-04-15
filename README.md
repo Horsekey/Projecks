@@ -1,4 +1,4 @@
-# Projecks - 2021
+# Projecks - 2022
 
 ## Ongoing Potential Projects Report 2021 :moyai:
 
@@ -11,17 +11,17 @@ This is a personal space where I will outline my Cybersecurity projects related 
 ### Brainstorm Items :thought_balloon:
 
 - Rootkit project [Ring-0-Fire Repo](https://github.com/Horsekey/ring-0-fire)
-- NAS Server
+- NAS Server (done 2022)
 - Homelab simulation
   - DC
   - DHCP
   - File server
-- ARP poisoning
+- ARP poisoning 
 - HTTPS Spoof (proof-of-concept)
 - Rouge AP (Evil Twin)
 - Firewall setup and monitor
   - *Pfirewall?*
-- Advanced python scripting
+- Advanced python scripting (altered to PowerShell learning)
 - Router setup with MAC routing
 - Portfolio and resume building
   - WAMP
