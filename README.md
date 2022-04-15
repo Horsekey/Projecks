@@ -38,9 +38,9 @@ Home | Volunteer | Virtualized | Personal | School Related |
 -----|-----------|-------------|----------|----------------|
 :heavy_check_mark: NAS server | :x: Audit Project | :x: Homelab Simulation | :x: HTB | :heavy_check_mark: ARP Poison |
 :x: Evil Twin AP | ✔️ RDP Setup | :x: Rootkit analysis | :x: Portfolio & Resume | :x: HTTPS Spoof
-:x: Firewall setup & monitor | - | :x: Python (for scripts) | :heavy_check_mark: Arch Linux Rice | - |
-:x: Router setup | - | - | - | - |
-:x: Honeypot (DMZ?)! | - | - | - | - |
+:x: SIEM Lab Environment (honeypot) | - | :x: Python (for scripts) | :heavy_check_mark: Arch Linux Rice | - |
+:x: Vulnerability Management Lab | - | - | - | - |
+:x: Honeypot! | - | - | - | - |
 
 :x: = ongoing
 :heavy_check_mark: = finished
