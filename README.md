@@ -8,21 +8,24 @@ This is a personal space where I will outline my Cybersecurity projects related 
 > - Cyber law
 > - SIEM introduction
 
+> Related courses 2022:
+> - Digital Forensics
+> - Incident Response
+> - Virtualization & Cloud Security
+
 ### Brainstorm Items :thought_balloon:
 
 - Rootkit project [Ring-0-Fire Repo](https://github.com/Horsekey/ring-0-fire)
 - NAS Server (done 2022)
-- Homelab simulation
+- Homelab simulation (DOING RN)
   - DC
   - DHCP
   - File server
-- ARP poisoning 
-- HTTPS Spoof (proof-of-concept)
+- HTTPS Spoof (proof-of-concept) (NEEDS DOCUMENTING)
 - Rouge AP (Evil Twin)
 - Firewall setup and monitor
   - *Pfirewall?*
-- Advanced python scripting (altered to PowerShell learning)
-- Router setup with MAC routing
+- Advanced python scripting (LOG PARSER -> IP BLOCK LISTS)
 - Portfolio and resume building
   - WAMP
 - Volunteer Cybersecurity audit
@@ -31,14 +34,15 @@ This is a personal space where I will outline my Cybersecurity projects related 
   - Report structure?
   - Common safeguards for assets and opensource applications?
 - HTB advancement
+  - Finished Starting Point boxes!
 
 ### Organized Ideas :pushpin:
 
 Home | Volunteer | Virtualized | Personal | School Related |
 -----|-----------|-------------|----------|----------------|
 :heavy_check_mark: NAS server | :x: Audit Project | :x: Homelab Simulation | :x: HTB | :heavy_check_mark: ARP Poison |
-:x: Evil Twin AP | ✔️ RDP Setup | :x: Rootkit analysis | :x: Portfolio & Resume | :x: HTTPS Spoof
-:x: SIEM Lab Environment (honeypot) | - | :x: PowerShell (for scripts) | :heavy_check_mark: Arch Linux Rice | - |
+:x: Evil Twin AP | ✔️ RDP Setup | :x: Rootkit analysis | :x: Portfolio & Resume | :heavy_check_mark: HTTPS Spoof
+:x: SIEM Lab Environment (honeypot) | - | :x: Python (log parser & blocker) | :heavy_check_mark: Arch Linux Rice | - |
 :x: Vulnerability Management Lab | - | - | - | - |
 :x: Honeypot! | - | - | - | - |
 
@@ -74,3 +78,8 @@ Home | Volunteer | Virtualized | Personal | School Related |
   - NAS File server
     - Utilized TrueNAS 12.0-U8.1 to make a NAS with Raidz2 and Windows share authentication (Samba and Microsoft account).
     - Had issues with authentication and upkeep of the machine. Used an older box that had limited RAM, will upgrade with time!
+  
+  - HTTPS Spoof
+    - Utilized ngrok.io to sign ssl certificates and pyphisher to clone websites.
+    - Presented to Girls Inc. in a presentation about phishing awareness!
+
