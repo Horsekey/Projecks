@@ -8,10 +8,13 @@ This is a personal space where I will outline my Cybersecurity projects related 
 > - Cyber law
 > - SIEM introduction
 
-> Related courses 2022:
+> Related courses 2022-2023:
 > - Digital Forensics
 > - Incident Response
 > - Virtualization & Cloud Security
+> - Networking
+> - Security Practicum
+> - Effective Controls for Cyber Defense (graduate)
 
 ### Brainstorm Items :thought_balloon:
 
@@ -26,8 +29,9 @@ This is a personal space where I will outline my Cybersecurity projects related 
 - Firewall setup and monitor
   - *Pfirewall?*
 - Advanced python scripting (LOG PARSER -> IP BLOCK LISTS)
+  - [Parse-4-ioc](https://github.com/Horsekey/parse-4-ioc) project 75% done
 - Portfolio and resume building
-  - WAMP
+  - [experimentalhorse.webflow.io](https://experimentalhorse.webflow.io/)
 - Volunteer Cybersecurity audit
   - Local community groups?
   - What tools/process to use?
